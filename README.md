@@ -1,5 +1,5 @@
-### Welcome to my Github
-
+### Welcome to my Github page
+I'm an Information Systems Engineering student at the University of Sonora.
 
 <!---
 Who you are
