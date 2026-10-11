@@ -5,7 +5,7 @@
 ---
 
 
-### Technologies
+### Technologies & Tools
 ---
 
 ### Professional Experience
