@@ -4,8 +4,5 @@
 ### About me
 
 
-### Technologies & Tools
-
-
 ### Professional Experience
 
