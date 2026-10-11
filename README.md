@@ -1,14 +1,9 @@
-## Welcome to my GitHub profile
-
-### About me
+### Welcome to my GitHub profile
 
 Hi, I'm an Information Systems Engineering student at the University of Sonora with a strong interest in computers and low-level programming.
 
-### Technologies
+I value spending my time on things that I believe are worthwhile.
+
+### Technologies & Tools:
 
 I'm currently working with C and Java and plan to explore more languages and technologies over time. For editing code, I use Notepad++.
-<!---
-Who you are
-What tools do you use
-How to reach you
--->
