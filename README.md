@@ -1,3 +1,3 @@
-## 🇲🇽 Santiago Beltrán
+## Santiago Beltrán
 ### About me
 ### Technologies
